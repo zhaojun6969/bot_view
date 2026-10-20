@@ -1,0 +1,10 @@
+{
+  "framework": null,
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "functions": {
+    "api/subscribe.js": {
+      "maxDuration": 30
+    }
+  }
+}
